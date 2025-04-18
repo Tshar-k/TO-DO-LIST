@@ -6,6 +6,7 @@ A simple and clean **To-Do List web app** built using **Flask** and **MongoDB**.
 - View all tasks
 - Delete tasks with confirmation
 - Responsive and user-friendly UI
+![Screenshot 2025-04-19 033601](https://github.com/user-attachments/assets/5c7a5411-3319-41a8-9aac-2c96a457e6fa)
 
 ---
 
@@ -16,6 +17,7 @@ A simple and clean **To-Do List web app** built using **Flask** and **MongoDB**.
 - 🚦 Set task priority using exclusive radio buttons
 - 🛡️ Form validation (prevents empty task submission)
 - 🎨 Clean and modern UI with CSS styling
+![Screenshot 2025-04-19 033609](https://github.com/user-attachments/assets/6f64b07d-8137-4f57-b918-6ff8274c3c1f)
 
 ---
 
